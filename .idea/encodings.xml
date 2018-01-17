@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Bean/TDefaultConfigBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/MainAcitivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ReadExcel/ReadInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/WriteInfo/WritePrintXml.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/constants/Constats.java" charset="GBK" />
+  </component>
+</project>
