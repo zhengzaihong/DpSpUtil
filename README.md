@@ -1,5 +1,9 @@
 android dp和sp生成工具
-将项目打包成jar后 如：dpsp.jar 放在你盘符目录下
+
+两种方式生成:
+1.下载该项目导入工程再mainactivity中配置相关信息即可生成你随意指定范围的dp 和 sp值
+
+2.将项目打包成jar后 如：dpsp.jar 放在你盘符目录下
 执行如下操作:
 
 java -jar E:\dpsp.jar "productpath = E:\\hello.xml" "key = size" "endvalue = 100" "half = true"
